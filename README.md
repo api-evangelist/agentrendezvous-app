@@ -66,7 +66,7 @@
 
 Rendezvous is an AI‑powered private matchmaking service that helps users find meaningful connections without public profiles or swiping. Users join a waitlist, answer introductory questions, and let AI matchmakers propose introductions. The platform emphasizes privacy, consent, and curated introductions, offering a waitlist‑based rollout across regions. It aims to reduce the friction of online dating by focusing on conversation quality and mutual agreement before contact details are exchanged.
 
-**Areas:** AI · Matchmaking · Privacy · Waitlist · Dating
+**Areas:** Artificial Intelligence · Matchmaking · Privacy · Waitlist · Dating
 
 ## Rendezvous on APIs.io
 
@@ -84,13 +84,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentrendezvous App Domain Security](https://apis.io/security/agentrendezvous-app/agentrendezvous-app-domain-security/)
+- [Rendezvous Domain Security](https://apis.io/security/agentrendezvous-app/agentrendezvous-app-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentrendezvous App Plans Pricing](https://apis.io/plans/agentrendezvous-app/agentrendezvous-app-plans-pricing/)
+- [Rendezvous Plans Pricing](https://apis.io/plans/agentrendezvous-app/agentrendezvous-app-plans-pricing/)
 
 ## Where to find this API
 
@@ -106,18 +106,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 21.7** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 21.8** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 53.6 |
+| Discoverability | 60.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 21.4 |
-| Access clarity | 58.4 |
+| Access clarity | 59.6 |
 
-**Agent readiness 8.9** — agent-aware
+**Agent readiness 11.5** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -132,7 +132,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | conformant |
 | Dry Run Mode | — |
@@ -142,8 +142,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentrendezvous-app/](https://apis.io/providers/agentrendezvous-app/).
 
